@@ -1,5 +1,5 @@
-<p style="text-align: center; font-size: larger; font-weight: bold;">
-    Quetzalcoatlus
+<p align="center">
+    #Quetzalcoatlus
 </p>
 
 ## Features
