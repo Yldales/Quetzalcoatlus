@@ -19,8 +19,9 @@
     * ⚙️ Define custom rules to automatically run actions on players.
 * **Miscellaneous**
     * 🗺️ [Leaflet](https://leafletjs.com/) map with each player's last-known[^2] position.
-    * 📥 Possibility to download [server-side replays](https://hosting.pathoftitans.wiki/guide/replay-recordings#server-side-replays).
+    * 🔄 Possibility to download [server-side replays](https://hosting.pathoftitans.wiki/guide/replay-recordings#server-side-replays).
     * 🤖 Can be used alongside the [potbot](https://www.potbot.xyz/) Discord bot.
+    * 🩹 Recover (potentials) failed webhooks data from the server's logs.
 
 [^1]: Workflow still work-in-progress.
 [^2]: From every webhooks having a "Location" field (`PlayerReport`, `PlayerLeave`, `PlayerKilled`, `PlayerRespawn`).
