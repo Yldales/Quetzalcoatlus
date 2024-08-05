@@ -1,4 +1,6 @@
-Quetzalcoatlus 🦖🕊 
+<span style="text-align: center; font-size: larger; font-weight: bold;">
+    Quetzalcoatlus
+</span>
 
 ## Features
 
