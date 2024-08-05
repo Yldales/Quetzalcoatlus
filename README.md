@@ -2,7 +2,7 @@ Quetzalcoatlus 🦖🕊
 
 ## Features
 
-* 🦖 Quetzalcoatlus is a Web UI created to help in **managing** and **moderating** one (or more) [Path of Titans](https://pathoftitans.com/) servers.
+* Web UI created to help in **managing** and **moderating** one (or more) [Path of Titans](https://pathoftitans.com/) servers.
 * **Management**
     * 🔧 Toggle the availability of any dinosaurs, vanilla or modded[1], with a simple button.
     * 👥 Manage whitelisted and banned players, plus administrators.
