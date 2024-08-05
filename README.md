@@ -1,6 +1,6 @@
-<span style="text-align: center; font-size: larger; font-weight: bold;">
+<p style="text-align: center; font-size: larger; font-weight: bold;">
     Quetzalcoatlus
-</span>
+</p>
 
 ## Features
 
