@@ -1,5 +1,5 @@
 <p align="center">
-    <h3 align="center">**Quetzalcoatlus**</h3>
+    <h3 align="center"><b>Quetzalcoatlus</b></h3>
     <p align="center">Work in progress. Some features only works with **LOCAL** databases.</p>
 </p>
 
