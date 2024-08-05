@@ -1,6 +1,6 @@
 <p align="center">
     <h3 align="center"><b>Quetzalcoatlus</b></h3>
-    <p align="center">Work in progress. Some features only works with **LOCAL** databases.</p>
+    <p align="center">Work in progress. Some features only works with <b>local</b> databases.</p>
 </p>
 
 ## Features
