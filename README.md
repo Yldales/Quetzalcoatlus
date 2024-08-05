@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Quetzalcoatlus</h1>
+    #Quetzalcoatlus
 </p>
 
 ## Features
@@ -20,6 +20,7 @@
 * **Miscellaneous**
     * 🗺️ [Leaflet](https://leafletjs.com/) map with each player's last-known[^2] position.
     * 📥 Possibility to download [server-side replays](https://hosting.pathoftitans.wiki/guide/replay-recordings#server-side-replays).
+    * 🤖 Can be used alongside the [potbot](https://www.potbot.xyz/) Discord bot.
 
 [^1]: Workflow still work-in-progress.
 [^2]: From every webhooks having a "Location" field (`PlayerReport`, `PlayerLeave`, `PlayerKilled`, `PlayerRespawn`).
