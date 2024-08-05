@@ -1,5 +1,6 @@
 <p align="center">
-    #Quetzalcoatlus
+    <h1 align="center">Quetzalcoatlus</h1>
+    <p align="center">Work in progress. Some features only works with **LOCAL** databases.</p>
 </p>
 
 ## Features
