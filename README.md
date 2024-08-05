@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">Quetzalcoatlus</h2>
+    <h1 align="center">Quetzalcoatlus</h1>
 </p>
 
 ## Features
